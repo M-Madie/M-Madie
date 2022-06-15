@@ -1,4 +1,4 @@
-Hi There, Welcome to My GitHub !
+Hi there, Welcome to My GitHub !
 
 <!--
 **M-Madie/M-Madie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
