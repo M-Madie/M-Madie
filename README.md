@@ -1,4 +1,4 @@
-A Data scientist with deep expertise in human behaviour and understanding in biology. Trained in Python and SQL for data handling and visualisation as well as predictive modelling.
+Hi There, Welcome to My GitHub !
 
 <!--
 **M-Madie/M-Madie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
