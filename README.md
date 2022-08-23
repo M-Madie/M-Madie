@@ -1,5 +1,7 @@
 Hi there, Welcome to My GitHub !
 
+For my bio, find me on Linked-in/maisam-madi.
+
 <!--
 **M-Madie/M-Madie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
